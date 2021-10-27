@@ -1,0 +1,14 @@
+django==2.0.3
+django-cors-headers
+psycopg2==2.8.6
+django-simple-history
+django-extensions
+django-cacheops
+django-storages
+dateutils==0.6.12
+django-filter
+requests
+drf-yasg
+Pillow
+PyJWT
+
